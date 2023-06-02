@@ -3,6 +3,7 @@ import AnimeCard from "./AnimeCard";
 
 function MainContent(props) {
  return (
+  // Search function is handled here
   <main>
    <div className="main-head">
     <form 

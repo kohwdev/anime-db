@@ -1,6 +1,7 @@
 import React from "react";
 
 function Sidebar({ topAnime }) {
+ // Fetches top 5 anime from the api list and displays on the sidebar
  return (
   <aside>
    <nav>

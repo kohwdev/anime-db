@@ -1,6 +1,7 @@
 import React from "react";
 
 function AnimeCard({anime}) {
+ // When search is performed, search result cards are displayed 
  return (
   <article className="anime-card">
    <a href={anime.url} target="_blank" rel="noreferrer">
